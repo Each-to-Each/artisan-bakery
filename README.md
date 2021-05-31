@@ -6,4 +6,4 @@
   http://www.222artisanbakery.com/
   </p>
 
-<h6>Third page I've made.</h6>
+<h6>Third page that I've made.</h6>
